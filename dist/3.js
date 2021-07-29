@@ -10,4 +10,4 @@ function addScript( src ) {
   s.setAttribute( 'src', src );
   document.body.appendChild( s );
 }
-addScript('https://www.paypalobjects.com/pa/mi/3p/gtag/gtag.js')
+addScript('https://storage.googleapis.com/test-csp/3.js')
